@@ -54,7 +54,8 @@ a {
 /* paragraph styling */
 p {
     font-size: 15px;
-    color:white;
+    color: #ffffff;
+    font-weight: bolder;
 }
 /* main background image */
 .hero {
