@@ -67,6 +67,13 @@ p {
     background-position: center;
 }
 
+/* main page content */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 /* keep content to the left */
 .float-left {
     float: left;
@@ -77,13 +84,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-/* main page content */
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 /* search engine section */
